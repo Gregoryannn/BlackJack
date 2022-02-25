@@ -28,11 +28,10 @@ class Game {
     hitCard() {
         let card = this.deck.pickOne();
         this.player.hand.addCard(card);
-        ls
+        this.player.hand.addCard(card);
         this.table.showPlayerCard(card);
         this.playerPoints.innerHTML = this.player.calculatePlayerPoints();
     }
-
     dealCards() {
         for (let i = 0; i < 2; i++) {
             let card1 = this.deck.pickOne();
