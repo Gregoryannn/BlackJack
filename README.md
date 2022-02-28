@@ -3,7 +3,7 @@
 Black Jack card game get the number of points closest to 21. Remember you can't get over 21 points, if you did that you lost.
 I did it with the help of the udemy courses. I added my own solutions to this game.
 
- ([Play 🚀](gregoryannn.github.io/blackjack/))
+ ([Play 🚀](https://gregoryannn.github.io/BlackJack/))
 
 Enjoy the game!
 
